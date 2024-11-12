@@ -1,0 +1,12 @@
+{
+  "name": "coffee-shop-website-master",
+  "version": "1.0.0",
+  "description": "Coffee-Shop-Website-master",
+  "main": "index.js",
+  "scripts": {
+  "coffee-shop-website-master": "node app.js" 
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
